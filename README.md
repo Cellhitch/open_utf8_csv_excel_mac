@@ -2,7 +2,8 @@
 Fixes Excel’s issue with opening UTF-8 CSV files by using a Mac automation + Python script
 A simple tool to convert CSV files to UTF-8 with BOM encoding and open them directly in Microsoft Excel on macOS.
 
-## Requirements
+## ⚙️ Prerequisites
+- macOS
 - Python 3.x
 - Microsoft Excel for Mac
 - Required Python packages:
